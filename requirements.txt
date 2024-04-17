@@ -1,0 +1,5 @@
+opencv-python
+dlib
+deepface==
+scikit-learn
+split-folders
