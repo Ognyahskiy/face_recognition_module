@@ -1,7 +1,12 @@
-# Face Recognition Module
+# Модуль распознавания лиц
 
-Welcome to the Face Recognition Module repository! This repository contains resources and projects related to face recognition using machine learning and deep learning techniques. It includes python notebooks and sample code for projects like deepface and lfw preprocess.
+Добро пожаловать в репозиторий модуля распознавания лиц! Этот репозиторий содержит ресурсы и проекты, связанные с распознаванием лиц с использованием методов машинного обучения и глубокого обучения. Здесь вы найдете Python-ноутбуки и примеры кода для проектов, таких как deepface и предобработка LFW.
 
-## Серямение для пароенячемальторск, верскать
+## Начало работы
 
-These are examples of applications that can be conducted using the programs and libraries included in this repository. They show how to use different algorithms and models to achieve face recognition and have been tested to provide excellent results in various schemas.
+Для начала работы с этим репозиторием вам потребуются следующие инструменты:
+- Python 3.6 или выше
+- Библиотеки Python, указанные в файле requirements.txt
+
+Установите необходимые библиотеки с помощью команды:
+pip install -r requirements.txt
