@@ -1,5 +1,5 @@
 opencv-python
 dlib
-deepface==
+deepface==0.0.81
 scikit-learn
 split-folders
